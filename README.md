@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tasdeed
-- 👀 I’m interested in Data science, Web development and Software Engineering
+- 👀 I’m interested in Data Science, Web Development and Software Development
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on full stack data science projects
 - 📫 How to reach me :t2aziz@ryerson.ca
