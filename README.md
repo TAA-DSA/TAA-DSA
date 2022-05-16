@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Data Engineering, Web Development and Software Engineering.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on full stack wed-development-projects
-- 📫 How to reach me :t2aziz@ryerson.ca
+- 📫 How to reach me :ayonaziz@gmail.com
 
 <!---
 TAA-DSA/TAA-DSA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
