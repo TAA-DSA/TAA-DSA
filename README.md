@@ -9,7 +9,7 @@ TAA-DSA/TAA-DSA is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-Tools and languages I have used for:
+Tools and languages I have experience in:
 
 R, Python, SQL, Jupiter Notebook, Javascript, Html, CSS, Sass, React, SAS, Node.js, Express.js
 
