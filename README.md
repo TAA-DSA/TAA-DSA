@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tasdeed
-- 👀 I’m interested in Data Science, Data Engineering, Web Development and Software Engineering.
-- 🌱 I’m currently working on fullstack web app
-- 💞️ I’m looking to collaborate on full stack wed-development-projects
-- 📫 How to reach me :ayonaziz@gmail.com
+- 👀 I’m interested in Data Science and Software Engineering.
+- 🌱 I’m currently working on software development projects
+- 💞️ I’m looking to collaborate on a projects based on Python or JavaScript
+
 
 <!---
 TAA-DSA/TAA-DSA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
