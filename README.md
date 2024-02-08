@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tasdeed
+- 👋 Hey, I’m Tasdeed
 - 👀 I’m interested in Data Science and Software Engineering.
 - 🌱 I’m currently working on software development projects
-- 💞️ I’m looking to collaborate on a projects based on Python or JavaScript
+- 💞️ I’m looking to collaborate on Backend development.
 
 
 <!---
@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 Tools and languages I have experience in:
 
-R, Python, SQL, Jupiter Notebook, Javascript, Html, CSS, Sass, React, SAS, Node.js, Express.js
+Python, SQL, Jupiter Notebook, Javascript, React, Node.js, Express.js
 
