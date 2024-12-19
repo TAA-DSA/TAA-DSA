@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Tasdeed.
 - 🚀 Proficient in JavaScript & Python programming languages.
-- 🚀 Currently engaged in full-stack software development.
-- 🚀 Interested in learning about and working on machine learning and AI.
+- 🚀 Currently engaged in Software engineering.
+- 🚀 Interested in learning about and working on machine learning and AI projects.
 
 
 <!---
