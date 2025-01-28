@@ -1,8 +1,10 @@
 - 👋 Hello, I’m Tasdeed!
 - 🚀 Software Engineer | JavaScript & Python Enthusiast | AI & ML Explorer
-- 🔭 Currently working on, software engineering projects that inspires me such as developing Django application
-- 🌱 Learning, Diving deep into machine learning and AI to build intelligent system
-- 👯 Looking to collaborate on open-source projects, mainly in javascript and python or anything that pushes boundaries of technology.
+- 🔭 Currently working on, software engineering projects that inspires me, like developing Django applications
+- 🌱 Learning, Diving deep into machine learning and AI to build intelligent systems
+- 👯 Looking to collaborate on open-source projects in Javascript and Python or anything that pushes boundaries of technology.
+
+Let's build, one line of code at a time! 😄
 
 
 <!---
